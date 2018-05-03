@@ -24,5 +24,7 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var button1: UILabel!
 
+    @IBOutlet weak var dgdfgdf: UIButton!
+    
 }
 
