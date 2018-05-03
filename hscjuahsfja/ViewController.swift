@@ -26,5 +26,6 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var dgdfgdf: UIButton!
     
+    @IBOutlet weak var weqweqe: UIButton!
 }
 

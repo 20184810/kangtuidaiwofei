@@ -44,6 +44,7 @@
                     <connections>
                         <outlet property="button1" destination="25J-Ps-TOz" id="rpG-yd-vBF"/>
                         <outlet property="dgdfgdf" destination="PTZ-uy-Gqm" id="Fxo-Bu-jUy"/>
+                        <outlet property="weqweqe" destination="DbC-63-wN1" id="FCb-Qm-h2K"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
